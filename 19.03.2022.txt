@@ -1,0 +1,6 @@
+Day 1 report
+
+I have downloaded & installed Android Studio.
+its has default java and xml file.
+then I have executed the default program in android studio.
+Then I have created a button android.
